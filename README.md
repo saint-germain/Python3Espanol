@@ -20,23 +20,15 @@ Hay varias maneras de explorar este curso:
 
 ### Usando mybinder.org sobre este repositorio 
 
-Haciendo clic en el siguiente boton se pueden correr los notebooks de la seccion 1 (excepto algunas celdas en los notebooks 1.4 y 1.5). directamente a traves de mybinder.org, que genera una maquina virtual en la nube en donde se puede interactuar con los notebooks. Los notebooks de las secciones 2 y 3 no se pueden correr de esta manera, pues las librerias no existen dentro de la maquina virtual invocada.
-
-[![Binder](https://mybinder.org/badge.svg)]([![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/astro4dev/OAD-Data-Science-Toolkit/master))
-
-### Usando mybinder.org sobre el repositorio original de este curso
-
 Haciendo clic en el siguiente boton se pueden correr todos los notebooks del curso directamente a traves de mybinder.org, que genera una maquina virtual en la nube en donde se puede interactuar con los notebooks. Este enlace funciona sobre el repositorio original del curso en https://github.com/saint-germain/Python3Espanol.
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/saint-germain/Python3Espanol/master)
 
 ## Corriendo localmente este repositorio
 
- - Descarga el repositorio completo del OAD Data Science Toolkit en este [enlace](https://github.com/astro4dev/OAD-Data-Science-Toolkit/archive/master.zip). 
+ - Descarga este repositorio este [enlace](https://github.com/saint-germain/Python3Espanol/archive/master.zip). 
  - Instala [Anaconda](https://www.anaconda.com/download/) completo o [Miniconda](https://conda.io/miniconda.html) con minimo las librerias `jupyter numpy matplotlib astropy` (ver abajo para Windows).
  - Corre localmente los notebooks en este directorio.
- 
- Nota: Tambien se puede clonar localmente solamente el repositorio original https://github.com/saint-germain/Python3Espanol y se siguen las instrucciones anteriores.
 
 #### Para instalar Anaconda en Windows:
 
