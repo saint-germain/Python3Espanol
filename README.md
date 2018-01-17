@@ -20,7 +20,7 @@ Hay varias maneras de explorar este curso:
 
 ### Usando mybinder.org sobre este repositorio 
 
-Haciendo clic en el siguiente boton se pueden correr todos los notebooks del curso directamente a traves de mybinder.org, que genera una maquina virtual en la nube en donde se puede interactuar con los notebooks. Este enlace funciona sobre el repositorio original del curso en https://github.com/saint-germain/Python3Espanol.
+Haciendo clic en el siguiente boton se pueden correr todos los notebooks del curso directamente a traves de mybinder.org, que genera una maquina virtual en la nube en donde se puede interactuar con los notebooks (excepto el 1.4 y 1.5, pues se usa la libreria `turtle`, que requiere correr localmente). Este enlace funciona sobre el repositorio original del curso en https://github.com/saint-germain/Python3Espanol.
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/saint-germain/Python3Espanol/master)
 
