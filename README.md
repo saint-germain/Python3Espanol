@@ -24,9 +24,9 @@ Haciendo clic en el siguiente boton se pueden correr todos los notebooks del cur
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/saint-germain/Python3Espanol/master)
 
-## Corriendo localmente este repositorio
+### Corriendo localmente este repositorio (recomendado)
 
- - Descarga este repositorio este [enlace](https://github.com/saint-germain/Python3Espanol/archive/master.zip). 
+ - Descarga este repositorio en este [enlace](https://github.com/saint-germain/Python3Espanol/archive/master.zip). 
  - Instala [Anaconda](https://www.anaconda.com/download/) completo o [Miniconda](https://conda.io/miniconda.html) con minimo las librerias `jupyter numpy matplotlib astropy` (ver abajo para Windows).
  - Corre localmente los notebooks en este directorio.
 
