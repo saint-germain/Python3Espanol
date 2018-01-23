@@ -20,7 +20,7 @@ Hay varias maneras de explorar este curso:
 
 ### Usando mybinder.org sobre este repositorio 
 
-Haciendo clic en el siguiente boton se pueden correr todos los notebooks del curso directamente a traves de mybinder.org, que genera una maquina virtual en la nube en donde se puede interactuar con los notebooks (excepto el 1.4 y 1.5, que tienen una version modificada hecha para correr en Binder, [1.4a](1_Introduccion/04.%20Tortugas-en-Binder.ipynb) y [1.5a](1_Introduccion/05a.%20Range%20-%20iteradores-en-Binder.ipynb)). Este enlace funciona sobre el repositorio original del curso en https://github.com/saint-germain/Python3Espanol.
+Haciendo clic en el siguiente boton se pueden correr todos los notebooks del curso directamente a traves de mybinder.org, que genera una maquina virtual en la nube en donde se puede interactuar con los notebooks (excepto el 1.4 y 1.5, que tienen una version modificada hecha para correr en Binder, [1.4a](1_Introduccion/04a.%20Tortugas-en-Binder.ipynb) y [1.5a](1_Introduccion/05a.%20Range%20-%20iteradores-en-Binder.ipynb)). Este enlace funciona sobre el repositorio original del curso en https://github.com/saint-germain/Python3Espanol.
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/saint-germain/Python3Espanol/master)
 
